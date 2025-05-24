@@ -87,8 +87,8 @@ This basic model provides a first step in predictive analytics and can be enhanc
 ## 👤 Author
 
 **Mbacke Serigne Modou**  
-MBA – Business Analytics  
-Loughborough University, United Kingdom  
+MBA – Business Analytics at Université Laval, Canada 
+Currently in an exchange program at Loughborough University, United Kingdom  
 📧 smodouu01@gmail.com  
 📍 Currently based in the UK 🇬🇧
 
