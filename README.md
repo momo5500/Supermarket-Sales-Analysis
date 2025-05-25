@@ -13,8 +13,7 @@ The project was built using Google Colab and is fully reproducible.
 Ce projet a été réalisé dans le cadre de mon chemin en exploration des données, et celui de mon MBA en analytique d'affaires à L'univeristé Laval.  
 L'objectif ? Utiliser des méthodes simples mais efficaces pour explorer des données réelles de ventes en supermarché.  
 On y parle de clients, de chiffres, de satisfaction… et un peu de prédiction ✨  
-Un vrai projet fun et formateur, appliqué à un cas concret !
----
+Un vrai projet fun et formateur, appliqué à un cas concret !---
 
 ## 📁 Dataset Overview
 
