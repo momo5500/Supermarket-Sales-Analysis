@@ -9,7 +9,7 @@ The objective is to analyse customer behaviour, product performance, sales trend
 We applied core data analysis techniques — grouping, aggregation, visualisation, and basic machine learning — in a real-world scenario to extract actionable insights.  
 The project was built using Google Colab and is fully reproducible.
 
-🇫🇷### Résumé en français :  
+🇫🇷 **Résumé en français** :  
 Ce projet a été réalisé dans le cadre de mon chemin en exploration des données, et celui de mon MBA en analytique d'affaires à L'univeristé Laval.  
 L'objectif ? Utiliser des méthodes simples mais efficaces pour explorer des données réelles de ventes en supermarché.  
 On y parle de clients, de chiffres, de satisfaction… et un peu de prédiction ✨  
