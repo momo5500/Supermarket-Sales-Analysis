@@ -1,7 +1,7 @@
 # Supermarket-Sales-Analysis
-# 📊 Supermarket Sales Analysis – Data Analytics Portfolio Project
+#  Supermarket Sales Analysis – Data Analytics Portfolio Project
 
-## 🛒 Introduction
+## Introduction
 
 This project explores 1,000 supermarket sales transactions collected across three branches in Myanmar.  
 The objective is to analyse customer behaviour, product performance, sales trends, and satisfaction ratings in order to support business decision-making.
@@ -15,7 +15,7 @@ L'objectif ? Utiliser des méthodes simples mais efficaces pour explorer des don
 On y parle de clients, de chiffres, de satisfaction… et un peu de prédiction ✨  
 Un vrai projet fun et formateur, appliqué à un cas concret !---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 - **Source**: Public CSV dataset
 - **Transactions**: 1,000
@@ -24,7 +24,7 @@ Un vrai projet fun et formateur, appliqué à un cas concret !---
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 - `Python` (Jupyter Notebook / Google Colab)
 - `Pandas` – data wrangling
@@ -34,7 +34,7 @@ Un vrai projet fun et formateur, appliqué à un cas concret !---
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 ### ✅ Key Visual Analyses:
 
@@ -50,7 +50,7 @@ Un vrai projet fun et formateur, appliqué à un cas concret !---
 
 ---
 
-## 🔮 Predictive Modeling
+##  Predictive Modeling
 
 A **Linear Regression model** was trained to predict the `Total` amount spent based on:
 
@@ -59,7 +59,7 @@ A **Linear Regression model** was trained to predict the `Total` amount spent ba
 - Product Line
 - Hour of purchase
 
-📌 **Root Mean Squared Error (RMSE)** = **258.34**  
+ **Root Mean Squared Error (RMSE)** = **258.34**  
 This basic model provides a first step in predictive analytics and can be enhanced with more complex techniques in the future.
 
 ---
@@ -74,7 +74,7 @@ This basic model provides a first step in predictive analytics and can be enhanc
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Replace linear regression with **Random Forest or XGBoost** for improved predictions
 - Apply **K-Means clustering** for customer segmentation
