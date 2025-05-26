@@ -43,7 +43,7 @@ Un vrai projet fun et formateur, appliqué à un cas concret !---
 - **Sales by Hour** – Clear peaks at 1 PM and 7 PM  
 - **Sales by Gender** – Female customers generated slightly more revenue  
 - **Sales by Customer Type** – Members spent more on average  
-- **Payment Methods** – (optional section if you include it)  
+- **Payment Methods** – (This dataset shows that most of the customers pay by cash)  
 - **Satisfaction vs Total Spent** –  
   → The Pearson correlation coefficient was **-0.04**, showing **no meaningful relationship** between money spent and satisfaction rating.  
   → Customer satisfaction appears to be driven by other factors (experience, service).
